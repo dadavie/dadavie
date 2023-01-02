@@ -1,4 +1,5 @@
-### Hi there! My name is David.👋
+### Hi there! My name is David.
+I’m an architect and data scientist with a PhD from the ETH Zürich (Department of Architecture, Chair of Digital Architectonics)
 
 <!--
 **dadavie/dadavie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
