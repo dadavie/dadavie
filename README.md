@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a project called Planetary Garden, a data-driven approach to help plants that suffer from climate change move. 
 - 🔭 I’m currently learning how to effectively structure my life in order to grow as a data scientist. 
 - 💬 Ask me about architecture, data driven modeling, cell cultures and food.
-- ⚡ How to find out what I was working on so far: www.schildberger.at
+- 🔭 How to find out what I was working on so far: www.schildberger.at
 - 📫 How to reach me: davidschildberger@gmail.com
  
  
