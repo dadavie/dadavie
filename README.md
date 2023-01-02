@@ -1,4 +1,4 @@
-#### Hi there! My name is David!
+#### 👋 Hi there! My name is David! 👋
 - ⚡ I’m an architect and data scientist with a PhD from the ETH Zürich (Department of Architecture, Chair of Digital Architectonics).
 - 🌱 I’m currently working on a project called Planetary Garden, a data-driven approach to help plants that suffer from climate change move. 
 - 🔭 I’m currently learning how to effectively structure my life in order to grow as a data scientist. 
