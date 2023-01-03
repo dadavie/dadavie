@@ -1,6 +1,6 @@
 #### 👋 Hi there! My name is David! 👋
 - ⚡ I’m an architect and data scientist with a PhD from the ETH Zürich (Department of Architecture, Chair of Digital Architectonics).
-- 🌱 I’m currently working on a project called Planetary Garden, a data-driven approach to help plants that suffer from climate change move. 
+- 🌱 I’m currently working on the project of a Planetary Garden, a data-driven approach to help plants that suffer from climate change move. 
 - 🔭 I’m currently learning how to effectively structure my everyday life in order to further improve my skills as a data scientist. 
 - 💬 Ask me about architecture, data driven modeling, cell cultures and food.
 - 🔭 How to find out more about me: www.schildberger.at
